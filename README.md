@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">Building a career in data science to extract meaningful information from complex data</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 - 🔭 I’m currently working on [Diamond_Price_Prediction_Project](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project)
 
 - 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL**
