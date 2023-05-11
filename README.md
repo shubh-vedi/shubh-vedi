@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Building a career in data science to extract meaningful information from complex data</h3>
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<h1 align="center">Hi 👋, I'm Shubh Vedi</h1>
+<h3 align="center">Building a career in data science to extract meaningful information from complex data</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Diamond_Price_Prediction_Project](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project)
 
