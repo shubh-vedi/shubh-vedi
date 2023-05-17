@@ -8,6 +8,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+-  I’m currently learning Full Stack Data Science Bootcamp 2.0 from iNeuron.
+
 - 🔭 I’m currently working on [Diamond_Price_Prediction_Project](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project)
 
 - 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL**
