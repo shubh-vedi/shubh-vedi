@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 
 <h1 align="center">Hi 👋, I'm Shubh Vedi</h1>
 <h3 align="center">Building a career in data science to extract meaningful information from complex data</h3>
