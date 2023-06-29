@@ -10,7 +10,7 @@
 
 -  I’m currently learning Full Stack Data Science Bootcamp 2.0 from iNeuron.
 
-- 🔭 I’m currently working on [Backorder Prediction](https://github.com/shubh-vedi/FSDS_Diamond_Price_Prediction_Project)
+- 🔭 I’m currently working on [Backorder Prediction]()
 
 - 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL**
 
