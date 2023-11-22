@@ -10,9 +10,9 @@
 
 -  I’m currently learning Full Stack Data Science Bootcamp 2.0 from iNeuron.
 
-- 🔭 I’m currently working on [Backorder Prediction]()
+- 🔭 I’m currently working on [Genrative AI Projects]()
 
-- 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL**
+- 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL LLM,Prompt Engineering,LangChain**
 
 - 💬 Ask me about **Python,AWS,ML,MYSQL**
 
