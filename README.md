@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/shubhamvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamvedi" height="30" width="40" /></a>
 </p>
 
-### 📋 Data Science Projects
+### 📋 My Projects
 
 | Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
