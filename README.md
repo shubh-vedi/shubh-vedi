@@ -31,8 +31,8 @@
 | Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
 | **Fitness Chatbot**     | AI |                  [Fitness Chatbot](https://github.com/shubh-vedi/fitness_chatbot_LLM)                 | `Python • Streamlit • Genrative Ai • AWS`   |
-| **backorder_prediction_Project**         | ECommerce    | [backorder_prediction](https://github.com/shubh-vedi/Backorder_prediction_Project)           | `Python • statsmodels • Machine-Learning  • AWS • Flask • EDA • Data Analysis`        |
-| **Conversational_Q-A_Chatbot_Using_Gemini_Pro**  | Genrative AI     | [Conversational_Q-A_Chatbot](https://github.com/shubh-vedi/Conversational_Q-A_Chatbot_Using_Gemini_Pro)     AI     | `Streamlit • Python • Gemini • Numpy` |
+| **Backorder_Prediction_Project**         | ECommerce    | [backorder_prediction](https://github.com/shubh-vedi/Backorder_prediction_Project)           | `Python • statsmodels • Machine-Learning  • AWS • Flask • EDA • Data Analysis`        |
+| **Conversational_Q-A_Chatbot_Using_Gemini_Pro**  | AI     | [Conversational_Q-A_Chatbot](https://github.com/shubh-vedi/Conversational_Q-A_Chatbot_Using_Gemini_Pro)          | `Streamlit • Python • Gemini • Numpy` |
 | **Movie-Recommendation-System**      | Entertainment            | [Movie-Recommendation-System](https://github.com/shubh-vedi/Movie-Recommendation-System)                      | `nltk • streamlit • git • EDA`                     |
 | **Sales Insights Data Analysis Project** | Banking        | [Sales Insights](https://github.com/shubh-vedi/Sales_insights_Project_) | `sklearn • Power BI  • MYSQL  • Data Anaylst`                  |
 
