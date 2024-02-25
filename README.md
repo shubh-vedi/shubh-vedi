@@ -8,13 +8,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
--  I’m currently learning Full Stack Data Science Bootcamp 2.0 from iNeuron.
+-  Certified Full Stack Data Science Bootcamp 2.0 from iNeuron.
 
 - 🔭 I’m currently working on [Genrative AI Projects]()
 
 - 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL LLM,Prompt Engineering,LangChain**
 
-- 💬 Ask me about **Python,AWS,ML,MYSQL**
+- 💬 Ask me about **Python,AWS,ML,MYSQL,Genrative AI,LLM,Data Anaylst**
 
 - 📫 How to reach me **shubhamnv2@gmail.com**
 
