@@ -30,6 +30,7 @@
 
 | Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
 | -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
+| **Ramayan GPT**     | AI |                  [Ramyan GPT](https://github.com/shubh-vedi/Ramayan-GPT)                 | `Python • Streamlit • Genrative Ai • Pinecone`   |
 | **Fitness Chatbot**     | AI |                  [Fitness Chatbot](https://github.com/shubh-vedi/fitness_chatbot_LLM)                 | `Python • Streamlit • Genrative Ai • AWS`   |
 | **Backorder_Prediction_Project**         | ECommerce    | [backorder_prediction](https://github.com/shubh-vedi/Backorder_prediction_Project)           | `Python • statsmodels • Machine-Learning  • AWS • Flask • EDA • Data Analysis`        |
 | **Conversational_Q-A_Chatbot_Using_Gemini_Pro**  | AI     | [Conversational_Q-A_Chatbot](https://github.com/shubh-vedi/Conversational_Q-A_Chatbot_Using_Gemini_Pro)          | `Streamlit • Python • Gemini • Numpy` |
