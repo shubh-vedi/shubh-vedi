@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 
 <h1 align="center">Hi 👋, I'm Shubh Vedi</h1>
-<h3 align="center">Building a career in data science to extract meaningful information from complex data</h3>
+<h3 align="center">Building a career in AI to extract meaningful information from complex data</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Genrative AI Projects]()
 
-- 🌱 I’m currently learning **Data Science,AWS,ML,AI,MYSQL LLM,Prompt Engineering,LangChain**
+- 🌱 I’m currently learning **Generative AI,AWS,DL,NLP,LLM,Prompt Engineering**
 
-- 💬 Ask me about **Python,AWS,ML,MYSQL,Genrative AI,LLM,Data Anaylst**
+- 💬 Ask me about **Genrative AI, Python,AWS,DL,LLM,NLP**
 
 - 📫 How to reach me **shubhamnv2@gmail.com**
 
