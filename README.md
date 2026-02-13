@@ -91,16 +91,11 @@ I'm a **Generative AI Engineer** passionate about turning complex data into mean
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications & Learning
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh-vedi&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-vedi&layout=compact&theme=tokyonight&hide_border=true" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubh-vedi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+- 🎓 **Full Stack Data Science Bootcamp 2.0** — iNeuron
+- ☁️ Actively learning **AWS Cloud** for production AI deployment
+- 📚 Continuous learner: LangChain, LlamaIndex, CrewAI, Prompt Engineering
 
 ---
 
