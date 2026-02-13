@@ -1,48 +1,117 @@
-<!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shubh Vedi</h1>
-<h3 align="center">Building a career in AI to extract meaningful information from complex data</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+# Hey, I'm Shubh Vedi 👋
 
+### 🚀 Generative AI Engineer | Building Intelligent Systems That Understand, Generate & Transform
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-vedi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shubhamvedi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamnv2@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 
--  Certified Full Stack Data Science Bootcamp 2.0 from iNeuron.
+---
 
-- 🔭 I’m currently working on [Genrative AI Projects]()
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Generative AI,AWS,DL,NLP,LLM,Prompt Engineering**
+## 🧠 About Me
 
-- 💬 Ask me about **Genrative AI, Python,AWS,DL,LLM,NLP**
+I'm a **Generative AI Engineer** passionate about turning complex data into meaningful, actionable intelligence. I design and build AI-powered applications using **LLMs, RAG pipelines, and cloud-native architectures**.
 
-- 📫 How to reach me **shubhamnv2@gmail.com**
+- 🔬 Currently deep-diving into **LLM fine-tuning, agentic AI workflows & RAG systems**
+- ☁️ Deploying production AI solutions on **AWS**
+- 🎓 Certified in **Full Stack Data Science (iNeuron Bootcamp 2.0)**
+- 🐍 Python is my superpower — I think in `for` loops and dream in `transformers`
 
-- ⚡ Fun fact **I love coding in different programming languages, but my favorite is Python. There's just something about its simplicity and readability that I find appealing."**
+<br clear="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-vedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-vedi" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhamvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamvedi" height="30" width="40" /></a>
-</p>
+---
 
-### 📋 My Projects
+## 🏗️ Featured Projects
 
-| Project Name                           | Domain         | Repository Link                                                                    | Libraries                              |
-| -------------------------------------- | -------------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
-| **Ramayan GPT**     | AI |                  [Ramyan GPT](https://github.com/shubh-vedi/Ramayan-GPT)                 | `Python • Streamlit • Genrative Ai • Pinecone`   |
-| **Fitness Chatbot**     | AI |                  [Fitness Chatbot](https://github.com/shubh-vedi/fitness_chatbot_LLM)                 | `Python • Streamlit • Genrative Ai • AWS`   |
-| **Backorder_Prediction_Project**         | ECommerce    | [backorder_prediction](https://github.com/shubh-vedi/Backorder_prediction_Project)           | `Python • statsmodels • Machine-Learning  • AWS • Flask • EDA • Data Analysis`        |
-| **Conversational_Q-A_Chatbot_Using_Gemini_Pro**  | AI     | [Conversational_Q-A_Chatbot](https://github.com/shubh-vedi/Conversational_Q-A_Chatbot_Using_Gemini_Pro)          | `Streamlit • Python • Gemini • Numpy` |
-| **Movie-Recommendation-System**      | Entertainment            | [Movie-Recommendation-System](https://github.com/shubh-vedi/Movie-Recommendation-System)                      | `nltk • streamlit • git • EDA`                     |
-| **Sales Insights Data Analysis Project** | Banking        | [Sales Insights](https://github.com/shubh-vedi/Sales_insights_Project_) | `sklearn • Power BI  • MYSQL  • Data Anaylst`                  |
+### 🤖 Generative AI & LLM Applications
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**🕉️ Ramayan GPT**](https://github.com/shubh-vedi/Ramayan-GPT) | A conversational AI that answers questions about the Ramayan using RAG-based retrieval over sacred texts | `Python` `Streamlit` `Pinecone` `LangChain` `GenAI` |
+| [**💪 Fitness Chatbot**](https://github.com/shubh-vedi/fitness_chatbot_LLM) | An LLM-powered fitness assistant that delivers personalized workout and nutrition advice | `Python` `Streamlit` `AWS` `GenAI` |
+| [**💬 Gemini Pro Q&A Chatbot**](https://github.com/shubh-vedi/Conversational_Q-A_Chatbot_Using_Gemini_Pro) | A conversational chatbot leveraging Google's Gemini Pro for multi-turn dialogue | `Python` `Streamlit` `Gemini API` `NumPy` |
 
+### 📊 Machine Learning & Data Science
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**📦 Backorder Prediction**](https://github.com/shubh-vedi/Backorder_prediction_Project) | End-to-end ML pipeline predicting product backorders to optimize e-commerce supply chains | `Python` `scikit-learn` `Flask` `AWS` `EDA` |
+| [**🎬 Movie Recommendation System**](https://github.com/shubh-vedi/Movie-Recommendation-System) | Content-based recommendation engine using NLP to suggest movies based on user preferences | `Python` `NLTK` `Streamlit` |
+| [**📈 Sales Insights Dashboard**](https://github.com/shubh-vedi/Sales_insights_Project_) | Interactive data analysis dashboard uncovering hidden sales trends and business insights | `Power BI` `MySQL` `Python` |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-vedi&show_icons=true&locale=en&layout=compact" alt="shubh-vedi" /></p>
+## 🔮 What I'm Building Next
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-vedi&show_icons=true&locale=en" alt="shubh-vedi" /></p>
+> I'm actively exploring and building in these areas — open to collaborations!
+
+- 🧩 **AI Agents** — Autonomous multi-step reasoning agents using LangGraph & CrewAI
+- 📄 **Document Intelligence** — Multi-modal RAG systems for PDF/image understanding
+- 🗣️ **Voice AI** — Real-time speech-to-action pipelines with Whisper + LLMs
+- 🏥 **Domain-Specific LLMs** — Fine-tuning models for healthcare, legal & finance
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / ML / GenAI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh-vedi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-vedi&layout=compact&theme=tokyonight&hide_border=true" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubh-vedi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**I'm open to collaborations on GenAI projects, open-source contributions, and freelance opportunities.**
+
+If you're building something exciting with LLMs, RAG, or AI Agents — let's talk!
+
+[![Email Me](https://img.shields.io/badge/Email_Me-shubhamnv2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamnv2@gmail.com)
+
+</div>
