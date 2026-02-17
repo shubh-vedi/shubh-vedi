@@ -90,13 +90,6 @@ I'm a **Generative AI Engineer** passionate about turning complex data into mean
 
 ---
 
-## 📊 GitHub Stats
-
-![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubh-vedi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-vedi&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 💬 Let's Connect!
 
 **I'm open to collaborations on GenAI projects, open-source contributions, and freelance opportunities.**
